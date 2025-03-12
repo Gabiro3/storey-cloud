@@ -10,8 +10,8 @@ const poppins = Poppins({
 })
 
 export const metadata: Metadata = {
-  title: "StoreIt",
-  description: "StoreIt - The only storage solution you need.",
+  title: "StoreIt | Secure document storage for clinics and hospitals",
+  description: "StoreIt - The only healthcare storage solution you need.",
 };
 
 export default function RootLayout({
